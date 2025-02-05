@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs at 12:00 AM UTC daily
+    # Runs daily at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -10,7 +10,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
@@ -19,9 +19,12 @@ jobs:
           github_user_name: DNJ007
           outputs: dist/snake.svg
 
-      - name: Push Snake Animation to Output Branch
+      - name: Upload Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
           personal_token: ${{ secrets.GITHUB_TOKEN }}
+
+      
+
