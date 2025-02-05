@@ -23,7 +23,7 @@
 -->
 ---
 
-### 🚀 Skills & Tools
+<h3 align="center">🚀 Skills & Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DNJ007&show_icons=true&locale=en" alt="your-username" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DNJ007&" alt="your-username" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/dheemanth-nj" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
