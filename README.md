@@ -6,21 +6,21 @@
   <a href="https://linkedin.com/in/dheemanth_nj" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link" target="_blank">
+<!--   <a href="https://your-portfolio-link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
+  </a> -->
   <a href="mailto:011vpu2dheemanthnj@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
-
+<!--
 ### 🏆 Competitive Programming
 - 🔥 **LeetCode** (Rating: 1573)
 - 🌟 **Codeforces** (Rating: 1300)
 - ⭐ **CodeChef 1⭐** (Rating: 1315)
-
+-->
 ---
 
 ### 🚀 Skills & Tools
