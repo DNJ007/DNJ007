@@ -2,14 +2,14 @@
 <h3 align="center">🚀 Full Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=DNJ007&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
+  <a href="https://linkedin.com/in/dheemanth_nj" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:011vpu2dheemanthnj@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 ---
 
 ### 🏆 Competitive Programming
-- 🔥 **LeetCode** (Rating: 157374)
+- 🔥 **LeetCode** (Rating: 1573)
 - 🌟 **Codeforces** (Rating: 1300)
 - ⭐ **CodeChef 1⭐** (Rating: 1315)
 
