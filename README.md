@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheemanth N J</h1>
-<h3 align="center">🚀 Full Stack Developer | Competitive Programmer</h3>
+<h3 align="center">🚀 Full Stack Development | Problem Solving | Competitive Programming </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DNJ007&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
