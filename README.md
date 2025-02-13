@@ -48,7 +48,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DNJ007&show_icons=true&locale=en" alt="DNJ007" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DNJ007&theme=darkhub" alt="GitHub Trophies" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNJ007&show_icons=true&locale=en&layout=compact" alt="DNJ007" />
 </p>
 
